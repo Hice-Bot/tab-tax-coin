@@ -1,0 +1,26 @@
+{
+    "name": "Tab Tax",
+    "symbol": "TAX",
+    "description": "The official currency of productivity. Tax your distractions and reward your focus. Part of the Tab Tax ecosystem.",
+    "image": "https://hice-bot.github.io/tab-tax-coin/logo.png",
+    "external_url": "https://hice-bot.github.io/tab-tax-coin/",
+    "attributes": [
+        {
+            "trait_type": "Utility",
+            "value": "Productivity Tax"
+        },
+        {
+            "trait_type": "Ecosystem",
+            "value": "Tab Tax"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://hice-bot.github.io/tab-tax-coin/logo.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
