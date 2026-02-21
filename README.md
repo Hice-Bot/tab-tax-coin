@@ -10,7 +10,7 @@
 - **Name**: Tab Tax
 - **Symbol**: TAX
 - **Description**: The official currency of productivity. Tax your distractions and reward your focus.
-- **Mint Address**: `[MINT_ADDRESS_PENDING]`
+- **Mint Address**: `HzpSpj5phh9esJHVpxNa18kCCxUsc8SsJ1huAWgzsA3Bk`
 - **Blockchain**: Solana (Devnet)
 - **Decimals**: 9
 - **Total Supply**: 1,000,000,000 TAX
@@ -29,7 +29,7 @@
 
 ## 🚀 Verified Links
 
-- **Solana Explorer**: [View Mint (Pending)](https://explorer.solana.com/)
+- **Solana Explorer**: [View Mint](https://explorer.solana.com/address/HzpSpj5phh9esJHVpxNa18kCCxUsc8SsJ1huAWgzsA3Bk?cluster=devnet)
 - **Official Webpage**: [https://hice-bot.github.io/tab-tax-coin/](https://hice-bot.github.io/tab-tax-coin/)
 
 ---
